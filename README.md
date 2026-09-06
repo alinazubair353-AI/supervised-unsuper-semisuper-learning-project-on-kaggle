@@ -49,7 +49,7 @@ This project explores how much labeled data actually matters for medical image c
 ## 📓 Notebook
 
 This project was originally developed and run on Kaggle (with GPU acceleration):
-🔗 **[View the notebook on Kaggle](https://www.kaggle.com/code/alinazubair353-ai/supervised-learning-project-on-kaggle)**
+🔗 **[View the notebook on Kaggle](https://www.kaggle.com/code/alinaybaig/super-unsuper-semisuper-learning-project)**
 
 ## 🚀 Running Locally
 
